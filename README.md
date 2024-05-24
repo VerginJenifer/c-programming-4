@@ -1,4 +1,4 @@
-![image](https://github.com/VerginJenifer/c-programming-4/assets/136251012/67578cbc-f01e-4a18-acc8-636156405246)## AIM:
+## AIM:
 To Write a C program to find the ASCII value of a given character.
 ## ALGORITHM:
 1. Include the standard input-output header file.
