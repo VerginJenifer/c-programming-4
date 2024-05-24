@@ -19,6 +19,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/VerginJenifer/c-programming-4/assets/136251012/c4aba334-d795-4540-85b6-7da73c050341)
+![Uploading image.png…]()
+
 ## RESULT:
 Thus, a C program to find the ASCII value of a given character was executed successfully.
