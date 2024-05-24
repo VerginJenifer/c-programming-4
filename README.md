@@ -1,4 +1,4 @@
-## AIM:
+![image](https://github.com/VerginJenifer/c-programming-4/assets/136251012/67578cbc-f01e-4a18-acc8-636156405246)## AIM:
 To Write a C program to find the ASCII value of a given character.
 ## ALGORITHM:
 1. Include the standard input-output header file.
@@ -19,7 +19,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/VerginJenifer/c-programming-4/assets/136251012/73969ed6-0918-4970-a55c-8aef66649542)
 
 ## RESULT:
 Thus, a C program to find the ASCII value of a given character was executed successfully.
